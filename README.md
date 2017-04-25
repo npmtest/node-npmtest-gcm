@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gcm/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gcm/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gcm/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gcm/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gcm/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gcm/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gcm/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gcm/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gcm/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gcm/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gcm/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gcm/build/coverage.html/index.html)
 
@@ -85,7 +85,8 @@
         "url": "git+ssh://git@github.com/h2soft/node-gcm.git",
         "web": "http://github.com/h2soft/node-gcm"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
